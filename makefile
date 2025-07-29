@@ -19,3 +19,6 @@ clear:
 
 help: #
 	@echo " Lyosh terminal by Aleksei R "
+        @echo "  --config  - для работы с файлом конфигурации "
+        @echo "  --history  - для работы с файлом истории команд "
+        @echo "  --lyo   - для обработки команд из пакетного файла "
