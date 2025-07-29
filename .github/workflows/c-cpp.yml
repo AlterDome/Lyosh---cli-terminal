@@ -1,3 +1,0 @@
-all:
-	gcc -Wall -c ./main.c -include ./games.c ./config.c ./editor.c ./command.c  ./maker.c
-	ld -wall -o  lyosh  ./lyosh.o ./games.o ./config.o ./editor.c  ./command.c  ./maker.c
